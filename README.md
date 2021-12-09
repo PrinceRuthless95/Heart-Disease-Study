@@ -1,4 +1,5 @@
 # Heart-Disease-Study
+	- Completed within a week timeframe
 	- Pairplot, heatmap, PCA
 	- K stratified CV
 	- KNN, SVC, DT, Naives Bayes
